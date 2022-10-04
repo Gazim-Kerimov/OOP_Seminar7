@@ -1,0 +1,15 @@
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/obj/Debug/net6.0/OOP_C#.csproj.AssemblyReference.cache
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/obj/Debug/net6.0/OOP_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/obj/Debug/net6.0/OOP_C#.AssemblyInfoInputs.cache
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/obj/Debug/net6.0/OOP_C#.AssemblyInfo.cs
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/obj/Debug/net6.0/OOP_C#.csproj.CoreCompileInputs.cache
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/bin/Debug/net6.0/OOP_C#
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/bin/Debug/net6.0/OOP_C#.deps.json
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/bin/Debug/net6.0/OOP_C#.runtimeconfig.json
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/bin/Debug/net6.0/OOP_C#.dll
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/bin/Debug/net6.0/OOP_C#.pdb
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/obj/Debug/net6.0/OOP_C#.dll
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/obj/Debug/net6.0/refint/OOP_C#.dll
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/obj/Debug/net6.0/OOP_C#.pdb
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/obj/Debug/net6.0/OOP_C#.genruntimeconfig.cache
+/Users/gazimkerimov/Desktop/Developer/ДЗ по C#/OOP_C#/obj/Debug/net6.0/ref/OOP_C#.dll
